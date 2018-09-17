@@ -5,3 +5,6 @@
  1. 写静态页面，CSS样式
  2. 通过transition，使用js修改class实现动画
  3. 使用window.onscroll实现双向定位
+
+效果如图：
+![phone](./phone.jpg)
